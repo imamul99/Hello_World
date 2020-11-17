@@ -1,6 +1,6 @@
 
 print('Hello world')
 
-print('I gonna to be a pythonist')
+print('I am gonna  be a pythonist')
 
 print('Hello')
